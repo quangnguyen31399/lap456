@@ -18,5 +18,7 @@ namespace NguyenLeHongQuang_lab456.Models
         public Category Category { get; set; }
         [Required]
         public byte CategoryId { get; set; }
+
+       
     }
 }
